@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React JS<br>💬 Ask me about React, Front end development, Responsive Web Design<br>⚡ Fun fact I'm Addicted to Coding...
+<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React, Front end development, Responsive Web Design<br>⚡ Fun fact I'm Addicted to Coding...
 
 
 ## 🌐 Socials:
