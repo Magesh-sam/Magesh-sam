@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=magesh-sam&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magesh-sam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+[![An image of @mageshsam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mageshsam)](https://holopin.io/@mageshsam)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
