@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently building next store e-commerce site <br>🌱 I’m currently learning React native<br>💬 Ask me about Front end development, Meta frameworks, Responsive Web Development<br>🎧 Wired in 24x7
+🔭 I’m currently building gamer-db website https://gamer-db.vercel.app/ <br>🌱 I’m currently learning Data Structures/Algorithms, Java <br>💬 Ask me about Front end development, Meta frameworks, Responsive Web Development<br>🎧 Wired in 24x7
 
 ![pixel art](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
