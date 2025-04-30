@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm Mageshkannan, A typical tech guy fell in love with copmuters and coffee and ended up being a software engineer. Other than tech I do wildlife photohgraphy and I love travelling, food, waterfalls and videogames ofcourse.</p>
+<p align="left">I'm Mageshkannan, A typical tech guy fell in love with computers and coffee and ended up being a software engineer. Other than tech I do wildlife photohgraphy and I love travelling, food, waterfalls and videogames ofcourse.</p>
 
 ###
 
-- Learning Java, Postgres, OOPS and DSA</p>
+- Learning Java, Postgres, OOPS and DSA
 
 
 ###
@@ -41,9 +41,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magesh-sam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magesh-sam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
