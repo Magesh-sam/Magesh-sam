@@ -42,6 +42,7 @@
 ###
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magesh-sam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=magesh-sam&theme=radical&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magesh-sam&theme=radical&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 
 ###
